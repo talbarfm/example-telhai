@@ -1,5 +1,5 @@
 commit to a ne
-\
-
 more changes to local in main
 w local branch
+changes to local made in new_branch
+ to a new local branch

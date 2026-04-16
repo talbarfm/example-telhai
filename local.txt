@@ -1,1 +1,6 @@
-commit to a new local branch
+commit
+
+
+changes to local made in new_branch
+
+ to a new local branch
